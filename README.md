@@ -3,7 +3,13 @@
 
 - 🔭Currently, I am researching **(نبض)AI-driven diagnostics for CAD patients, focusing on deep learning applications to enhance clinical outcomes.**
 
+- 🌱 I’m currently learning **courses about AI, programming, deep learning**
+
 - 📫 How to reach me **mmaarouf.eng@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PeX5mVw7hjq2oGxBC6AJPKHar2apqwFJ/view?usp=sharing](https://drive.google.com/file/d/1PeX5mVw7hjq2oGxBC6AJPKHar2apqwFJ/view?usp=sharing)
+
+- ⚡ Fun fact **i am interested in Forensic Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
